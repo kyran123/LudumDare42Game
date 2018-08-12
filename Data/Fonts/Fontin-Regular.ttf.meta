@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e890400d11017354096dcf937c681c76
+timeCreated: 1534107557
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fontin
+  fontNames:
+  - Fontin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bf66eae61d27fc34a842df276a757664, type: 3}
+  - {fileID: 12800000, guid: c18ebedf1583cc546b73df2db951d7c6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
